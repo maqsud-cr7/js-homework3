@@ -18,7 +18,7 @@ console.log(total);
 
 // ----------------  Задание 2 ----------------
 
-do {
+/* do {
   var num = +prompt("Введите количество ступеней")
 } while (isNaN(num) || num == 0 || num == null);
 do {
@@ -32,4 +32,4 @@ var total = ''
 for (let i = 0; i < num; i++) {
  total = total + symb;
  console.log(total+finalSymb); 
-}
+} */
